@@ -95,7 +95,7 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![Plot 1](https://github.com/tenedres/ExData_Plotting1/blob/master/figure/plot1.png) 
+![Plot 1](https://github.com/tenedores/ExData_Plotting1/blob/master/figure/plot1.png) 
 
 
 ### Plot 2
