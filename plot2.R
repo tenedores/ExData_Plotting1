@@ -8,7 +8,7 @@ install.packages("lubridate")
 library(lubridate)
 Subsetdates$date_time = dmy_hms(paste(Subsetdates$Date, Subsetdates$Time))
 png("plot2.png", width = 480, height = 480)
-plot(Subsetdates$dat?_time,Subsetdates$Global_active_power, 
+plot(Subsetdates$date_time,Subsetdates$Global_active_power, 
      xlab =NA,
      ylab = "Global Active Power (kilowatts)",
      type = "l", 
