@@ -2,7 +2,7 @@
 datas <- read.table("household_power_consumption.txt", header = TRUE, sep=";", na.strings = "?")
 #Subset the data from the dates 2007-02-01 and 2007-02-02
 Subsetdates<-subset(datas, Date=="1/2/2007"|Date=="2/2/2007")
-#Pl?t 2 
+#Plot 2 
 #Combine date and time into single posix column with lubridate
 install.packages("lubridate")
 library(lubridate)
