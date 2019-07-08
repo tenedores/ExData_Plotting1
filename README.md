@@ -95,22 +95,22 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![Plot 1](https://github.com/tenedres/ExData_Plotting1/blob/master/plot1.png) 
+![Plot 1](https://github.com/tenedres/ExData_Plotting1/blob/master/figure/plot1.png) 
 
 
 ### Plot 2
 
-![Plot 2](https://github.com/tenedores/ExData_Plotting1/blob/master/plot2.png) 
+![Plot 2](https://github.com/tenedores/ExData_Plotting1/blob/master/figure/plot2.png) 
 
 
 ### Plot 3
 
-![Plot 3](https://github.com/tenedores/ExData_Plotting1/blob/master/plot3.png) 
+![Plot 3](https://github.com/tenedores/ExData_Plotting1/blob/master/figure/plot3.png) 
 
 
 ### Plot 4
 
-![Plot 4](https://github.com/tenedores/ExData_Plotting1/blob/master/plot4.png) 
+![Plot 4](https://github.com/tenedores/ExData_Plotting1/blob/master/figure/plot4.png) 
 
 
 © 2019 GitHub, Inc.
